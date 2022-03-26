@@ -9,7 +9,6 @@ import SwiftUI
 
 
 // MARK: DISPLAYING DATA
-
 struct Currency: Identifiable{
 
     var id = UUID()

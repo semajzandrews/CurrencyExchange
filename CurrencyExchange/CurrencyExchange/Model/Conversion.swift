@@ -7,6 +7,7 @@
 
 import SwiftUI
 
+// MARK: FOR FETCHING DATA
 struct Conversion: Decodable {
 
     var rates: [String: Double]

@@ -14,6 +14,7 @@
 		FED0D84F27EFB8A4002DF7D8 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = FED0D84E27EFB8A4002DF7D8 /* Home.swift */; };
 		FED0D85227EFB8C4002DF7D8 /* Conversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = FED0D85127EFB8C4002DF7D8 /* Conversion.swift */; };
 		FED0D85427EFB90E002DF7D8 /* Currency.swift in Sources */ = {isa = PBXBuildFile; fileRef = FED0D85327EFB90E002DF7D8 /* Currency.swift */; };
+		FED0D85727EFBA35002DF7D8 /* FetchData.swift in Sources */ = {isa = PBXBuildFile; fileRef = FED0D85627EFBA35002DF7D8 /* FetchData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		FED0D84E27EFB8A4002DF7D8 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
 		FED0D85127EFB8C4002DF7D8 /* Conversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Conversion.swift; sourceTree = "<group>"; };
 		FED0D85327EFB90E002DF7D8 /* Currency.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Currency.swift; sourceTree = "<group>"; };
+		FED0D85627EFBA35002DF7D8 /* FetchData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FetchData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 		FED0D84D27EFB896002DF7D8 /* ViewModel */ = {
 			isa = PBXGroup;
 			children = (
+				FED0D85627EFBA35002DF7D8 /* FetchData.swift */,
 			);
 			path = ViewModel;
 			sourceTree = "<group>";
@@ -174,6 +177,7 @@
 				FED0D85427EFB90E002DF7D8 /* Currency.swift in Sources */,
 				FED0D85227EFB8C4002DF7D8 /* Conversion.swift in Sources */,
 				FED0D84F27EFB8A4002DF7D8 /* Home.swift in Sources */,
+				FED0D85727EFBA35002DF7D8 /* FetchData.swift in Sources */,
 				FED0D83E27EFB812002DF7D8 /* CurrencyExchangeApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
